@@ -1,0 +1,11 @@
+Flappy Triangle
+
+A little demo to showcase how to use Redux in a React Native app.
+
+To run:
+
+  $ npm install
+  Open ios/flappyTriangle.xcodeproj and hit run in Xcode or
+  $ react-native android
+
+Forked from: https://github.com/exponentjs/fluxpybird
